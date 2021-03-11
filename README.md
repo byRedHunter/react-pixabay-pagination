@@ -1,5 +1,7 @@
 # Images width pixabay and pagination
 
+<p>Simple app that use pixabay api with pagination.</p>
+
 <b>Preview</b>
 https://react-pixabay-pagination.vercel.app/
 
